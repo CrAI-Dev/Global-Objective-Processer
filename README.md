@@ -1,2 +1,0 @@
-# Global-Objective-Processer
-GOP
